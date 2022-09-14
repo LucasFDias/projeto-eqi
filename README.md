@@ -25,16 +25,16 @@ Esse site foi um desafio proposto pela EQI investimento. Como objetivo eu criei 
 
 <!-- HTML -->
 <br>
-<div><img style='width:50px; height: 50px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> <b> HTML 5</b></div>
+<div><img style='width:50px; height: 50px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> </br><b> HTML 5</b></div>
 <br>
-<p>• Tags semânticas</p>
-<p>• Reutilização de classes</p>
-<p>• Estruturada por seções</p>
+<p>- Tags semânticas</p>
+<p>- Reutilização de classes</p>
+<p>- Estruturada por seções</p>
 
 <!-- CSS -->
 <br>
 <div>
-<img style='width:50px; height: 50px; background:white; ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> <b> CSS 3</b>
+<img style='width:50px; height: 50px; background:white; ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> </br><b> CSS 3</b>
 </div>
 <p>- Uso do display flex e grid, Uso de variáveis</p>
 <p>- Reutilização de estilos</p>
@@ -43,7 +43,7 @@ Esse site foi um desafio proposto pela EQI investimento. Como objetivo eu criei 
 <p>- Media Queries para adicionar responsividade</p>
 <br>
 <div>
-<img style='width:50px; height: 50px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img style='width:50px; height: 50px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></br>
 <b> JavaScript</b> 
 </div>
 <p>- Funções</p>
