@@ -25,7 +25,9 @@ Esse site foi um desafio proposto pela EQI investimento. Como objetivo eu criei 
 
 <!-- HTML -->
 <br>
-<div><img style='width:50px; height: 50px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> </br><b> HTML 5</b></div>
+<div><img style='width:50px; height: 50px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> </br>
+<b>  HTML 5</b>
+</div>
 <br>
 <p>- Tags semânticas</p>
 <p>- Reutilização de classes</p>
@@ -34,7 +36,8 @@ Esse site foi um desafio proposto pela EQI investimento. Como objetivo eu criei 
 <!-- CSS -->
 <br>
 <div>
-<img style='width:50px; height: 50px; background:white; ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> </br><b> CSS 3</b>
+<img style='width:50px; height: 50px; background:white; ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> </br>
+<b>  CSS 3</b>
 </div>
 </br>
 <p>- Uso do display flex e grid, Uso de variáveis</p>
@@ -45,7 +48,7 @@ Esse site foi um desafio proposto pela EQI investimento. Como objetivo eu criei 
 <br>
 <div>
 <img style='width:50px; height: 50px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></br>
-<b> JavaScript</b> 
+<b>  JavaScript</b> 
 </div>
 </br>
 <p>- Funções</p>
