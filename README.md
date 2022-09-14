@@ -36,6 +36,7 @@ Esse site foi um desafio proposto pela EQI investimento. Como objetivo eu criei 
 <div>
 <img style='width:50px; height: 50px; background:white; ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> </br><b> CSS 3</b>
 </div>
+</br>
 <p>- Uso do display flex e grid, Uso de variáveis</p>
 <p>- Reutilização de estilos</p>
 <p>- Organização por seções</p>
@@ -46,6 +47,7 @@ Esse site foi um desafio proposto pela EQI investimento. Como objetivo eu criei 
 <img style='width:50px; height: 50px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></br>
 <b> JavaScript</b> 
 </div>
+</br>
 <p>- Funções</p>
 <p>- Manipulação do DOM</p>
 <p>- Regex </p>
