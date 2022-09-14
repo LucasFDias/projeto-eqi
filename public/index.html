@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Simulador de Investimentos</title>
+		<link rel="stylesheet" href="css/style.css" />
+	</head>
+	<body>
+		<div class="container">
+			<main>
+				<div class="title">
+					<h1>Simulador de Investimentos</h1>
+				</div>
+				<div id="container-sections">
+					<section class="container-simulator">
+						<div class="simulator">
+							<h2>Simulador</h2>
+							<div id="container-forms">
+								<form action="" method="get">
+									<div>
+										<small>Rendimentos</small>
+										<div class="container-rend-index">
+											<input
+												type="button"
+												id="liquido"
+												class="rend btns"
+												onclick="lqd(this)"
+												value="Líquido"
+											/>
+											<input
+												type="button"
+												id="bruto"
+												class="rend btns"
+												value="Bruto"
+												onclick="brt(this)"
+											/>
+										</div>
+										<label class="cont-inputs" for="aporte-inicial">
+											<p><small>Aporte inicial</small></p>
+											<input
+												onblur="validar()"
+												type="text"
+												name="aporte-inicial"
+												id="aporte-inicial"
+												class="text"
+												value="R$"
+											/>
+											<span
+												><small>Aporte deve ser um número.</small></span
+											> </label
+										><br />
+										<label class="cont-inputs" for="prazo">
+											<p><small>Prazo (em meses)</small></p>
+											<input
+												onblur="validar()"
+												type="text"
+												class="text"
+												name="prazo"
+												id="prazo"
+											/>
+											<span
+												><small>Prazo deve ser um número.</small></span
+											> </label
+										><br />
+										<label for="ipca">
+											<p><small>IPCA(ao ano)</small></p>
+											<input type="text" name="ipca" id="ipca" readonly />
+										</label>
+									</div>
+									<div>
+										<small>Tipos de indexação</small>
+										<div class="container-rend-index">
+											<input
+												onclick="pRe(this)"
+												type="button"
+												id="pre"
+												class="index btns"
+												value="PRÉ"
+											/>
+											<input
+												onclick="pOs(this)"
+												type="button"
+												id="pos"
+												class="index btns"
+												value="PÓS"
+											/>
+											<input
+												onclick="fXd(this)"
+												type="button"
+												id="fixado"
+												class="index btns"
+												value="FIXADO"
+											/>
+										</div>
+										<label class="cont-inputs" for="aporte-mensal">
+											<p><small>Aporte Mensal</small></p>
+											<input
+												onblur="validar()"
+												class="text"
+												type="text"
+												name="aporte-mensal"
+												id="aporte-mensal"
+												value="R$"
+											/>
+											<span
+												><small>Aporte deve ser um número.</small></span
+											> </label
+										><br />
+										<label class="cont-inputs" for="rentabilidade">
+											<p><small>Rentabilidade</small></p>
+											<input
+												onblur="validar()"
+												class="text"
+												type="text"
+												name="rentabilidade"
+												id="rentabilidade"
+											/>
+											<span
+												><small
+													>Rentabilidade tem que ser um número.</small
+												></span
+											> </label
+										><br />
+										<label for="cdi">
+											<p><small>CDI(ao ano)</small></p>
+											<input type="text" name="cdi" id="cdi" readonly />
+										</label>
+									</div>
+								</form>
+							</div>
+						</div>
+						<div class="container-buttons">
+							<button class="acoes" id="limpar" onclick="limpar()">
+								Limpar campos
+							</button>
+							<button class="acoes" id="simular" onclick="simulation()">
+								Simular
+							</button>
+						</div>
+					</section>
+					<section class="container-results">
+						<h2>Resultado da Simulação</h2>
+						<article class="results">
+							<div id="vfb" class="result"></div>
+							<div id="air" class="result"></div>
+							<div id="vpir" class="result"></div>
+							<div id="vfl" class="result green"></div>
+							<div id="vti" class="result"></div>
+							<div id="gl" class="result green"></div>
+						</article>
+					</section>
+				</div>
+			</main>
+		</div>
+	</body>
+	<script src="js/main.js"></script>
+</html>
