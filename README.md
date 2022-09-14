@@ -34,7 +34,7 @@ Esse site foi um desafio proposto pela EQI investimento. Como objetivo eu criei 
 <!-- CSS -->
 <br>
 <div>
-<img style='width:50px; height: 50px; ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> <b> CSS 3</b>
+<img style='width:50px; height: 50px; background:white; ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> <b> CSS 3</b>
 </div>
 <p>- Uso do display flex e grid, Uso de variáveis</p>
 <p>- Reutilização de estilos</p>
