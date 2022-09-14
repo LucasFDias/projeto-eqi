@@ -1,24 +1,24 @@
 
 # Simulador de Investimento 
+
 ## Sobre 
-Esse site foi um desafio tecnico da empresa   EQI investimento. Meu objetivo era desenvolver um site que permitisse ao usuario realizar uma simulação de rendimentos de acordo com o tipo de indexação e tipo de rendimento escolhido. 
+Esse site foi um desafio proposto pela EQI investimento. Meu objetivo era desenvolver um site que permitisse ao usuario realizar uma simulação de rendimentos de acordo com o tipo de indexação e tipo de rendimento escolhido. 
 
 ### Requisitos 
 
 - NodeJS
 - NPM
 
-### Como executar 
+### Como executar em seu computador
 
-- Clone ou baixe esse repositório;
+- Faça ou baixe esse repositório;
 - execute esse seguintes codigos no terminal :
-  - `cd simulador-main`
+  - `cd projeto-eqi`
   - `npm install`
   - `npx json-server db.json`
-- o site estará localizado em `http://localhost:3000/`; 
+- vá em seu navegador e digite: `http://localhost:3000/`; 
 - escolha um tipo de rendimento e indexação; 
-- preencha os campos ;
-- e clique em simular.
+- preencha todos os campos e clique em simular.
 
 
 ## Linguagens e conceitos utilizados 
