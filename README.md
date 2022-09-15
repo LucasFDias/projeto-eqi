@@ -2,7 +2,7 @@
 # Simulador de Investimento 
 
 ## Sobre o simulador
-Esse site foi um desafio proposto pela EQI investimento. Como objetivo eu criei um site em que o usuario conseguisse realizar uma simulação de rendimentos de acordo com o tipo de indexação e tipo de rendimento escolhido. 
+Esse site foi um desafio proposto pela EQI investimento. Como objetivo eu criei um simulador web em que o usuario conseguisse realizar uma simulação de rendimentos de acordo com o tipo de indexação e tipo de rendimento escolhido. 
 
 ### Requisitos solicitados
 
