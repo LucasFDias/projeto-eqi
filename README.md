@@ -9,7 +9,7 @@ Esse site foi um desafio proposto pela EQI investimento. Como objetivo eu criei 
 - NodeJS
 - NPM
 
-### Como executar em seu computador
+### Como testar em seu computador
 
 - Faça ou baixe esse repositório;
 - execute esse seguintes codigos no terminal :
