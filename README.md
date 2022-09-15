@@ -54,12 +54,12 @@ Esse site foi um desafio proposto pela EQI investimento. Como objetivo eu criei 
 <p>- Funções</p>
 <p>- Manipulação do DOM</p>
 <p>- Regex </p>
-<p>- fetch </p> 
+<p>- Fetch </p> 
 <div>
   
-##  O que eu aprendi 
+##  Aprendizado: 
   
 Esse desafio abriu meus horizontes fazendo eu perceber que estou indo no caminho certo. Consegue praticar alguns conhecimentos meus em HTML, CSS E JS.
-Utilizei a extensao Prettier para padronizar as linguagens. 
+Utilizei a extensão Prettier para formatar o código corretamente. 
   
 
