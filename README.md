@@ -17,8 +17,8 @@ Esse site foi um desafio proposto pela EQI investimento. Como objetivo eu criei 
   - `npm install`
   - `npx json-server db.json`
 - vá em seu navegador e digite: `http://localhost:3000/`; 
-- escolha um tipo de rendimento e indexação; 
-- preencha todos os campos e clique em simular.
+- Escolha um tipo de rendimento e indexação; 
+- Por fim, preencha todos os campos e clique em simular.
 
 
 ## Linguagens e conceitos utilizados no simulador 
